@@ -43,15 +43,21 @@ You can even search weather information about any Any location all around the wo
 
 # Screenshots
 
-![alt-text-1](https://user-images.githubusercontent.com/56636039/87729306-a439a900-c7e2-11ea-9c14-e6dd862f4796.jpg "title-1") ![alt-text-2](https://user-images.githubusercontent.com/56636039/87729313-a7cd3000-c7e2-11ea-9a47-b878f375d81e.jpg "title-2")
+<p flot="left">
 <img src="https://user-images.githubusercontent.com/56636039/87729306-a439a900-c7e2-11ea-9c14-e6dd862f4796.jpg" height=600 width=300>
 
 <img src="https://user-images.githubusercontent.com/56636039/87729313-a7cd3000-c7e2-11ea-9a47-b878f375d81e.jpg" height=600 width=300 >
 
+</p>
+
+<p float="left">
 <img src="https://user-images.githubusercontent.com/56636039/87729665-802a9780-c7e3-11ea-966c-40cbf2b9a323.jpg" height=600 width=300 >
 
 <img src="https://user-images.githubusercontent.com/56636039/87729659-7dc83d80-c7e3-11ea-80d7-e6bd92bab366.jpg" height=600 width=300>
+</p>
 
+<p float="left">
 <img src="https://user-images.githubusercontent.com/56636039/87729668-815bc480-c7e3-11ea-96eb-ffed73e9429b.jpg" height=600 width=300>
 
 <img src="https://user-images.githubusercontent.com/56636039/87729671-828cf180-c7e3-11ea-8001-3c0e5e74b3a3.jpg" height=600 width=300>
+</p>
