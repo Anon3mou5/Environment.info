@@ -44,7 +44,7 @@ You can even search weather information about any Any location all around the wo
 # Screenshots
 
 ## Loading Animation and Home Screen
-<p flot="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/56636039/87729306-a439a900-c7e2-11ea-9c14-e6dd862f4796.jpg" height=600 width=300 style="padding-right:100;">
 
 <img src="https://user-images.githubusercontent.com/56636039/87729313-a7cd3000-c7e2-11ea-9a47-b878f375d81e.jpg" height=600 width=300 >
