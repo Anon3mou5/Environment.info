@@ -53,6 +53,7 @@ https://www.dropbox.com/sh/vbt34mcuri77d7s/AADQManADbANlR1GFZHiF0qea?dl=0
 
 <img src="https://user-images.githubusercontent.com/56636039/87729313-a7cd3000-c7e2-11ea-9a47-b878f375d81e.jpg" height=600 width=300 >
 
+<img src="https://user-images.githubusercontent.com/56636039/87731471-31cbc780-c7e8-11ea-9edd-5f62e9814e97.jpg" height=600 width=300 >
 </p>
 
 ## REFRESH on PULL & Search bar Dialog
