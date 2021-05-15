@@ -1,6 +1,7 @@
 # .info
-It is Basically a Weather app which provide variety of weather information in your current Area or Any Other City or Street of Any City over the world.
-You can even search weather information about any Any location all around the world
+A Weather app which provides variety of weather information in your current Area or Any Street/City over the world.
+
+You can even search weather information uing longitudinal/latitude values, but make sure that those values comes within the range provided by OpenWeather Api's
 
 # Download
 
