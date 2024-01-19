@@ -1,4 +1,4 @@
-# .info
+# Environment.info
 A Weather app which provides variety of weather information in your current Area or Any Street/City over the world.
 
 You can even search weather information uing longitudinal/latitude values, but make sure that those values comes within the range provided by OpenWeather Api's
